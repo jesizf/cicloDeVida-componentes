@@ -32,12 +32,12 @@ function ContentRowTop(){
 									<a className="btn btn-danger" target="_blank" rel="nofollow" href="/">View movie detail</a>
 								</div>
 							</div>
-						</div>
+						</div>	<GenresInDb />
 						{/*<!-- End content row last movie in Data Base -->*/}
 
 						{/*<!-- Genres in DB -->*/}
-						<GenresInDb />
-
+					
+								
 						{/*<!--End Genres In Db-->*/}		
 					</div>
 				</div>
